@@ -1,7 +1,7 @@
 # 首先我们导入 requests 和 BeautifulSoup库
 import requests
 from bs4 import BeautifulSoup
-
+#   123
 for i in range(10):
     url = 'http://58921.com/alltime/wangpiao?page=' + str(i)
     headers = {
